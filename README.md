@@ -1,2 +1,3 @@
-# TestMucca
-Our first rep
+# MetaCoin Truffle Box
+
+MetaCoin example Truffle project
